@@ -33,7 +33,52 @@ This project was created as a learning pet project to practice building Telegram
 - helps write a date invitation;
 - lets the user practice conversations with a celebrity persona;
 - works as a simple ChatGPT assistant in a question-answer mode;
-- sends text, inline buttons, and images for different scenarios.
+- sends text, inline buttons, and images for different scenarios
+  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/809b96b9-eb04-439e-9c8a-ba922ab64cf8" width="250" alt="Bot main screen"><br>
+      <sub>Bot main screen</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cb5ed980-3156-4cb8-a38f-f00cec2a32ec" width="250" alt="Menu and scenarios"><br>
+      <sub>Menu and scenarios</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/562dcb89-358e-42e0-be6e-941cec54c23b" width="250" alt="Profile generation"><br>
+      <sub>Profile generation</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c395f6be-21f6-441f-ad36-3a8a7cd7f4d3" width="250" alt="Step-by-step questions"><br>
+      <sub>Step-by-step questions</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/78d00c59-5533-402f-838d-391f72e7a425" width="250" alt="Opener message generation"><br>
+      <sub>Opener message generation</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0fe42708-fe5b-4ee6-83e1-3473b00cb8ce" width="250" alt="Reply suggestions"><br>
+      <sub>Reply suggestions</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0d264803-fcb8-4687-9435-0858b7331c84" width="250" alt="Date invitation generation"><br>
+      <sub>Date invitation generation</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ceabdeba-11ce-46d3-97a4-b6f6e358184c" width="250" alt="Celebrity role-play chat"><br>
+      <sub>Celebrity role-play chat</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f36684f4-b8c4-4b11-938a-e38ab8cc2292" width="250" alt="GPT question mode"><br>
+      <sub>GPT question mode</sub>
+    </td>
+  </tr>
+</table>
 
 ## `src` Structure
 
