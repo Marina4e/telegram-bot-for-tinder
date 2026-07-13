@@ -1,4 +1,4 @@
-﻿# Telegram Bot for Tinder
+# Telegram Bot for Tinder
 
 [English version](README.en.md)
 
@@ -34,6 +34,53 @@ Telegram-бот, який поєднує Telegram Bot API та ChatGPT для г
 - дозволяє тренувати діалог із ботом у ролі зірки;
 - працює як простий ChatGPT-асистент у режимі питань і відповідей;
 - надсилає текст, кнопки та зображення для різних сценаріїв.
+
+## Скріншоти роботи
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/809b96b9-eb04-439e-9c8a-ba922ab64cf8" width="250" alt="Головний екран бота"><br>
+      <sub>Головний екран бота</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cb5ed980-3156-4cb8-a38f-f00cec2a32ec" width="250" alt="Меню та сценарії"><br>
+      <sub>Меню та сценарії</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/562dcb89-358e-42e0-be6e-941cec54c23b" width="250" alt="Генерація профілю"><br>
+      <sub>Генерація профілю</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c395f6be-21f6-441f-ad36-3a8a7cd7f4d3" width="250" alt="Покрокові питання"><br>
+      <sub>Покрокові питання</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/78d00c59-5533-402f-838d-391f72e7a425" width="250" alt="Opener для знайомства"><br>
+      <sub>Opener для знайомства</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0fe42708-fe5b-4ee6-83e1-3473b00cb8ce" width="250" alt="Підказки для листування"><br>
+      <sub>Підказки для листування</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0d264803-fcb8-4687-9435-0858b7331c84" width="250" alt="Запрошення на побачення"><br>
+      <sub>Запрошення на побачення</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ceabdeba-11ce-46d3-97a4-b6f6e358184c" width="250" alt="Рольовий чат із зіркою"><br>
+      <sub>Рольовий чат із зіркою</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f36684f4-b8c4-4b11-938a-e38ab8cc2292" width="250" alt="Режим запитань до GPT"><br>
+      <sub>Режим запитань до GPT</sub>
+    </td>
+  </tr>
+</table>
 
 ## Структура `src`
 
@@ -297,13 +344,3 @@ mvn clean package
 ## Висновок
 
 Це сильний навчальний проєкт про Telegram-бота з AI-інтеграцією. Він добре демонструє навички роботи з Telegram Bot API, організацію багаторежимного діалогу, prompt-based взаємодію з ChatGPT і вміння будувати прикладний Java-проєкт навколо реального користувацького сценарію.
-
-![Tb1](https://github.com/user-attachments/assets/809b96b9-eb04-439e-9c8a-ba922ab64cf8)
-![Знімок екрана 2024-08-15 135115](https://github.com/user-attachments/assets/cb5ed980-3156-4cb8-a38f-f00cec2a32ec)
-![Знімок екрана 2024-08-15 134311](https://github.com/user-attachments/assets/562dcb89-358e-42e0-be6e-941cec54c23b)
-![Знімок екрана 2024-08-15 134249](https://github.com/user-attachments/assets/c395f6be-21f6-441f-ad36-3a8a7cd7f4d3)
-![Знімок екрана 2024-08-15 131707](https://github.com/user-attachments/assets/78d00c59-5533-402f-838d-391f72e7a425)
-![Знімок екрана 2024-08-15 124435](https://github.com/user-attachments/assets/0fe42708-fe5b-4ee6-83e1-3473b00cb8ce)
-![Знімок екрана 2024-08-15 124259](https://github.com/user-attachments/assets/0d264803-fcb8-4687-9435-0858b7331c84)
-![Знімок екрана 2024-08-14 161633](https://github.com/user-attachments/assets/ceabdeba-11ce-46d3-97a4-b6f6e358184c)
-![Знімок екрана 2024-08-14 124931](https://github.com/user-attachments/assets/f36684f4-b8c4-4b11-938a-e38ab8cc2292)
