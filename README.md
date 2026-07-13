@@ -1,5 +1,4 @@
-﻿# telegram-bot-for-tinder
-# Telegram Bot for Tinder
+﻿# Telegram Bot for Tinder
 
 [English version](README.en.md)
 
